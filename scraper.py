@@ -30,7 +30,7 @@ def scrape():
             data = col.text.strip()
             temp_list.append(data)
 
-    scraped_data.append(temp_list)
+        scraped_data.append(temp_list)
 
   
 
